@@ -1,0 +1,9 @@
+# Auto-generated dataset configuration{
+  "path": "/home/mukesh_jat/test/major-project-3.0/notebooks/notebooks_artifacts/prescription_dataset",
+  "train": "images/train",
+  "val": "images/val",
+  "test": "images/test",
+  "names": {
+    "0": "medicine"
+  }
+}
